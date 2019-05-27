@@ -1,0 +1,7 @@
+C:\Users\mert\source\repos\OdevTaslak\OdevTaslak\bin\Debug\OdevTaslak.exe.config
+C:\Users\mert\source\repos\OdevTaslak\OdevTaslak\bin\Debug\OdevTaslak.exe
+C:\Users\mert\source\repos\OdevTaslak\OdevTaslak\bin\Debug\OdevTaslak.pdb
+C:\Users\mert\source\repos\OdevTaslak\OdevTaslak\obj\Debug\OdevTaslak.csprojAssemblyReference.cache
+C:\Users\mert\source\repos\OdevTaslak\OdevTaslak\obj\Debug\OdevTaslak.csproj.CoreCompileInputs.cache
+C:\Users\mert\source\repos\OdevTaslak\OdevTaslak\obj\Debug\OdevTaslak.exe
+C:\Users\mert\source\repos\OdevTaslak\OdevTaslak\obj\Debug\OdevTaslak.pdb
