@@ -1,0 +1,14 @@
+C:\Users\suheyla\source\repos\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\suheyla\source\repos\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\suheyla\source\repos\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\suheyla\source\repos\Proje2\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\suheyla\source\repos\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\suheyla\source\repos\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\suheyla\source\repos\Proje2\Proje2\obj\Debug\Proje2.pdb
+C:\Users\suheyla\Desktop\ddd\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\suheyla\Desktop\ddd\Proje2\bin\Debug\Proje2.exe
+C:\Users\suheyla\Desktop\ddd\Proje2\bin\Debug\Proje2.pdb
+C:\Users\suheyla\Desktop\ddd\Proje2\obj\Debug\Proje2.csprojAssemblyReference.cache
+C:\Users\suheyla\Desktop\ddd\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\suheyla\Desktop\ddd\Proje2\obj\Debug\Proje2.exe
+C:\Users\suheyla\Desktop\ddd\Proje2\obj\Debug\Proje2.pdb
