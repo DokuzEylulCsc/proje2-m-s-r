@@ -1,6 +1,6 @@
-Süheyla Çimen : 2016280042
-Mert Küçük : 2015280018
-Ramazan Beydilli : 2016280006
+<b>Süheyla Çimen</b> : 2016280042</br>
+<b>Mert Küçük</b> : 2015280018</br>
+<b>Ramazan Beydilli</b> : 2016280006</br>
 
 # BİL 2002 Nesneye Yönelik Programlama
 ## Proje 2 Teslim Tarihi: 12 Haziran 2019 Çarşamba 21:30 (GitHub üzerinden)
