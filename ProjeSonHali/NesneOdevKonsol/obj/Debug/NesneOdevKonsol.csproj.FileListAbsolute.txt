@@ -1,0 +1,7 @@
+C:\Users\mert\source\repos\NesneOdevKonsol\NesneOdevKonsol\bin\Debug\NesneOdevKonsol.exe.config
+C:\Users\mert\source\repos\NesneOdevKonsol\NesneOdevKonsol\bin\Debug\NesneOdevKonsol.exe
+C:\Users\mert\source\repos\NesneOdevKonsol\NesneOdevKonsol\bin\Debug\NesneOdevKonsol.pdb
+C:\Users\mert\source\repos\NesneOdevKonsol\NesneOdevKonsol\obj\Debug\NesneOdevKonsol.csprojAssemblyReference.cache
+C:\Users\mert\source\repos\NesneOdevKonsol\NesneOdevKonsol\obj\Debug\NesneOdevKonsol.csproj.CoreCompileInputs.cache
+C:\Users\mert\source\repos\NesneOdevKonsol\NesneOdevKonsol\obj\Debug\NesneOdevKonsol.exe
+C:\Users\mert\source\repos\NesneOdevKonsol\NesneOdevKonsol\obj\Debug\NesneOdevKonsol.pdb
