@@ -1,3 +1,7 @@
+Süheyla Çimen : 2016280042
+Mert Küçük : 2015280018
+Ramazan Beydilli : 2016280006
+
 # BİL 2002 Nesneye Yönelik Programlama
 ## Proje 2 Teslim Tarihi: 12 Haziran 2019 Çarşamba 21:30 (GitHub üzerinden)
 ### (2 veya 3 kişilik gruplar halinde)
